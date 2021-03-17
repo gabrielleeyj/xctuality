@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xctuality/static/css/main.17d1fcc6.chunk.css",
+    "main.js": "/xctuality/static/js/main.d99af1bb.chunk.js",
+    "main.js.map": "/xctuality/static/js/main.d99af1bb.chunk.js.map",
+    "runtime-main.js": "/xctuality/static/js/runtime-main.b90a5879.js",
+    "runtime-main.js.map": "/xctuality/static/js/runtime-main.b90a5879.js.map",
+    "static/js/2.28641f4d.chunk.js": "/xctuality/static/js/2.28641f4d.chunk.js",
+    "static/js/2.28641f4d.chunk.js.map": "/xctuality/static/js/2.28641f4d.chunk.js.map",
+    "index.html": "/xctuality/index.html",
+    "precache-manifest.1fc39fe4568b03e11bec58097376ff37.js": "/xctuality/precache-manifest.1fc39fe4568b03e11bec58097376ff37.js",
+    "service-worker.js": "/xctuality/service-worker.js",
+    "static/css/main.17d1fcc6.chunk.css.map": "/xctuality/static/css/main.17d1fcc6.chunk.css.map",
+    "static/js/2.28641f4d.chunk.js.LICENSE.txt": "/xctuality/static/js/2.28641f4d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/xctuality/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90a5879.js",
+    "static/js/2.28641f4d.chunk.js",
+    "static/css/main.17d1fcc6.chunk.css",
+    "static/js/main.d99af1bb.chunk.js"
+  ]
+}
