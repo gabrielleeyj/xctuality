@@ -13,21 +13,21 @@ import "./lib/font-awesome/css/all.min.css";
 import "./lib/bootstrap/css/bootstrap.min.css";
 
 function App() {
-  return (
-    <GlobalProvider>
-      <Router>
-        <Header />
-        <Switch>
-          <Route exact path="/" component={Listing} />
-          <Route path="/watchlist" component={Watchlist} />
-          <Route path="/add" component={Add} />
-          <Route path="/cart" component={Cart} />
-          <Route path="/movie/:id" component={Movie} />
-        </Switch>
-        <Footer />
-      </Router>
-    </GlobalProvider>
-  );
+	return (
+		<GlobalProvider>
+			<Router>
+				<Header />
+				<Switch>
+					<Route exact path="/" component={Listing} />
+					<Route path="/watchlist" component={Watchlist} />
+					<Route path="/add" component={Add} />
+					<Route path="/cart" component={Cart} />
+					<Route path="/movie/:id" component={Movie} />
+				</Switch>
+				<Footer />
+			</Router>
+		</GlobalProvider>
+	);
 }
 
 export default App;
